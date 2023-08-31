@@ -14,6 +14,6 @@ Luis Eduardo Lemus Pérez
 1. ¿Para que sirve Git?
 - Sirve principalmente trabajando en equipo para que si alguien hace un cambio en su propia rama o branch, no haya problemas con la principal, además de bajar fácilmente los cambios de otros miembros.  
 1. ¿Qué es GitHub?
-Es una plataforma donde se pueden subir códigos y otras cosas, además de usar git para precisamente guardar en una branch main los cambios que se le hagan de git. 
+- Es una plataforma donde se pueden subir códigos y otras cosas, además de usar git para precisamente guardar en una branch main los cambios que se le hagan de git. 
 1. ¿Para que sirve GitHub?
-Sirve para ver de manera gráfica y global los cambios que han habido en un proyecto, además de que es posible también ver los código de otras personas e incluso bajarlos, o de igual forma, bajar un proyecto propio en una nueva computadora. 
+-Sirve para ver de manera gráfica y global los cambios que han habido en un proyecto, además de que es posible también ver los código de otras personas e incluso bajarlos, o de igual forma, bajar un proyecto propio en una nueva computadora. 
